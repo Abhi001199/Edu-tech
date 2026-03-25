@@ -14,7 +14,6 @@ Edu.tech aims to bridge this gap by creating a direct connection between student
   
 ## 📌 Features (Current)
 - Landing page UI
-- Teachers listing page
 - Responsive design
 - Clean and modern interface
 
